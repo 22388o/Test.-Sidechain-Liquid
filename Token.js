@@ -12,8 +12,8 @@
  12######################################################
  13
  14# Amend the following:
- 15NAME="your asset name here"
- 16TICKER="your ticker"
+ 15NAME="Bitcoin Test"
+ 16TICKER="BTCT"
  17# Do not use a domain prefix in the following:
  18DOMAIN="domain.here"
  19# Issue 100 assets using the satoshi unit, dependant on PRECISION when viewed from
